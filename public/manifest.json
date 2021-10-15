@@ -1,0 +1,9 @@
+{
+  "short_name": "CS498RK MP2: Images From NASA",
+  "name": "CS498RK MP2: Images From NASA",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
